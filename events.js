@@ -42,6 +42,17 @@ const eventData = [
   },
   {
     // todo ***change this information for all new events
+    dateTime: "12/08/2022",
+    eventName: "South Triad Winter Concert",
+    time: "7:00PM",
+    location: "Storey Gym",
+    // This information will populate automatically based off of the dateTime value
+    month: monthValue,
+    day: dayValue,
+    weekday: weekdayValue,
+  },
+  {
+    // todo ***change this information for all new events
     dateTime: "1/15/2023",
     eventName: "All-State Band",
     time: "January 15 - 18",
